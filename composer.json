@@ -1,6 +1,6 @@
 {
-  "name": "bozhinov/pChart2.0-for-PHP7",
-  "description": "pChart 2.3 compatible with PHP 7",
+  "name": "maxtangle/pchart2-php84",
+  "description": "pChart 2.3 compatible with PHP 8",
   "keywords": [
     "php",
     "charts",
@@ -12,12 +12,12 @@
 	"barcode",
     "server side charts"
   ],
-  "homepage": "https://github.com/bozhinov/pChart2.0-for-PHP7",
+  "homepage": "https://github.com/bozhinov/pChart2.0-for-PHP81",
   "type": "project",
   "license": "GPL-3.0",
   "support": {
-    "issues": "https://github.com/bozhinov/pChart2.0-for-PHP7/issues",
-    "source": "https://github.com/bozhinov/pChart2.0-for-PHP7"
+    "issues": "https://github.com/bozhinov/pChart2.0-for-PHP81/issues",
+    "source": "https://github.com/bozhinov/pChart2.0-for-PHP81"
   },
   "authors": [
     {
@@ -36,7 +36,7 @@
   "prefer-stable": true,
  
   "require": {
-    "php": ">=7.2",
+    "php": ">=8.1",
     "ext-gd": "*"
   }
 
